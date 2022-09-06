@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Igor
-- 👀 I’m interested in FullStack projects in JavaScript \ Typescript.
+- 👀 I’m interested in FullStack projects JS|TS + Node.js.
 - 🌱 I’m currently learning at RS-School.
 - 💞️ I’m looking to collaborate on websites creation.
 - 📫 How to reach me: Discord igorbo#2208, email: igor'dot'bogdanov'at'gmail'dot'com.
